@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProyectoGePro/static/css/main.c5f98e03.chunk.css",
+    "main.js": "/ProyectoGePro/static/js/main.e1a9b47e.chunk.js",
+    "main.js.map": "/ProyectoGePro/static/js/main.e1a9b47e.chunk.js.map",
+    "runtime-main.js": "/ProyectoGePro/static/js/runtime-main.9164cfe0.js",
+    "runtime-main.js.map": "/ProyectoGePro/static/js/runtime-main.9164cfe0.js.map",
+    "static/js/2.c94660ae.chunk.js": "/ProyectoGePro/static/js/2.c94660ae.chunk.js",
+    "static/js/2.c94660ae.chunk.js.map": "/ProyectoGePro/static/js/2.c94660ae.chunk.js.map",
+    "index.html": "/ProyectoGePro/index.html",
+    "precache-manifest.2d3471ce8b23be7a7631b12a0b987271.js": "/ProyectoGePro/precache-manifest.2d3471ce8b23be7a7631b12a0b987271.js",
+    "service-worker.js": "/ProyectoGePro/service-worker.js",
+    "static/css/main.c5f98e03.chunk.css.map": "/ProyectoGePro/static/css/main.c5f98e03.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9164cfe0.js",
+    "static/js/2.c94660ae.chunk.js",
+    "static/css/main.c5f98e03.chunk.css",
+    "static/js/main.e1a9b47e.chunk.js"
+  ]
+}
